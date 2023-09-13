@@ -1,0 +1,15 @@
+C:\Users\sony\Desktop\c# array\bin\Debug\net6.0\c# array.exe
+C:\Users\sony\Desktop\c# array\bin\Debug\net6.0\c# array.deps.json
+C:\Users\sony\Desktop\c# array\bin\Debug\net6.0\c# array.runtimeconfig.json
+C:\Users\sony\Desktop\c# array\bin\Debug\net6.0\c# array.dll
+C:\Users\sony\Desktop\c# array\bin\Debug\net6.0\c# array.pdb
+C:\Users\sony\Desktop\c# array\obj\Debug\net6.0\c# array.csproj.AssemblyReference.cache
+C:\Users\sony\Desktop\c# array\obj\Debug\net6.0\c# array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sony\Desktop\c# array\obj\Debug\net6.0\c# array.AssemblyInfoInputs.cache
+C:\Users\sony\Desktop\c# array\obj\Debug\net6.0\c# array.AssemblyInfo.cs
+C:\Users\sony\Desktop\c# array\obj\Debug\net6.0\c# array.csproj.CoreCompileInputs.cache
+C:\Users\sony\Desktop\c# array\obj\Debug\net6.0\c# array.dll
+C:\Users\sony\Desktop\c# array\obj\Debug\net6.0\refint\c# array.dll
+C:\Users\sony\Desktop\c# array\obj\Debug\net6.0\c# array.pdb
+C:\Users\sony\Desktop\c# array\obj\Debug\net6.0\c# array.genruntimeconfig.cache
+C:\Users\sony\Desktop\c# array\obj\Debug\net6.0\ref\c# array.dll
